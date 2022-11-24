@@ -32,5 +32,19 @@ fmSf/A1ZDjgEe+bNvEcmd9WB0vgKqn4="
                        length="0"
                        type="application/octet-stream" />
         </item>
+         <item>
+            <title>Version 1.1.0</title>
+            <sparkle:releaseNotesLink>
+                https://your_domain/your_path/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Thu, 24 Nov 2022 12:00:00 +0700</pubDate>
+            <enclosure url="1.1.0/gstudent.exe"
+                       sparkle:dsaSignature="MEUCIQCXN8r5+Ga+5wQxrteSE913BnpwjNvXC5nBTuYnHab3bwIgJBw0MuVRSMPt
+fmSf/A1ZDjgEe+bNvEcmd9WB0vgKqn4"
+                       sparkle:version="1.1.0"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
